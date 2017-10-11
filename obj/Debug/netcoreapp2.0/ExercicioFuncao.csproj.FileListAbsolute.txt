@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\bin\Debug\netcoreapp2.0\ExercicioFuncao.deps.json
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\bin\Debug\netcoreapp2.0\ExercicioFuncao.runtimeconfig.json
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\bin\Debug\netcoreapp2.0\ExercicioFuncao.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\bin\Debug\netcoreapp2.0\ExercicioFuncao.dll
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\bin\Debug\netcoreapp2.0\ExercicioFuncao.pdb
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\obj\Debug\netcoreapp2.0\ExercicioFuncao.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\obj\Debug\netcoreapp2.0\ExercicioFuncao.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\obj\Debug\netcoreapp2.0\ExercicioFuncao.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\obj\Debug\netcoreapp2.0\ExercicioFuncao.dll
+c:\Users\FIC\Desktop\ALEX\ExercicioFuncao\obj\Debug\netcoreapp2.0\ExercicioFuncao.pdb

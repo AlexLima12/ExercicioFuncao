@@ -1,0 +1,8 @@
+nome
+idade
+genero
+cidade
+RG
+CPF
+estado civil
+CNH

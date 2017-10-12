@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\ExercicioFuncao.csproj",
+      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\ExercicioFuncao.csproj",
       "projectName": "ExercicioFuncao",
-      "projectPath": "c:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\ExercicioFuncao.csproj",
+      "projectPath": "C:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\ExercicioFuncao.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\obj\\",
+      "outputPath": "C:\\Users\\FIC\\Desktop\\ALEX\\ExercicioFuncao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

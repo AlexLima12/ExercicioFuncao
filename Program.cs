@@ -6,7 +6,38 @@ namespace ExercicioFuncao
     {
         static void Main(string[] args)
         {
-           /* bool UmMaioDois = 1 > 2;
+        string[] perguntas = File.ReadAllLines(@"C:\Users\FIC\Desktop\ALEX\ExercicioFuncao\perguntas.txt");
+            string[] respostas = new string[perguntas.Length];
+
+            
+            string continuar = "s";
+
+             while(continuar == "s"){
+                GravarDados(perguntas, respostas);
+             System.Console.WriteLine("Gostaria de cadastrar mais alguém? Digite s para continuar...");   
+             continuar = Console.ReadLine();
+                                    }
+                         
+        }
+            static void GravarDados(string[] perguntas, string[] respostas){
+
+            
+            StreamWriter rp = new StreamWriter(@"C:\Users\FIC\Desktop\ALEX\ExercicioFuncao\respostas.csv", true);
+            
+
+            for(int i = 0; i<perguntas.Length; i++)
+            {
+                System.Console.WriteLine("Qual " + perguntas[i] + ": ");
+                respostas[i] = Console.ReadLine();
+                rp.Write(respostas[i] + ";");                
+             };
+             rp.WriteLine();
+             rp.Close();
+
+                                                                                          }
+           
+    
+   /* bool UmMaioDois = 1 > 2;
 
             if (UmMaioDois)
             {
@@ -27,25 +58,9 @@ ARRAY
             }
             */
 
-            string[] perguntas = File.ReadAllLines(@"C:\Users\FIC\Desktop\ALEX\ExercicioFuncao\perguntas.txt");
-            string[] respostas = new string[perguntas.Length];
-
-
-            StreamWriter rp = new StreamWriter(@"C:\Users\FIC\Desktop\ALEX\ExercicioFuncao\respostas.csv");
-            
-// Estrutura for para as perguntas salvas em arquivo externo
-            for(int i = 0; i<perguntas.Length; i++)
-            {
-                System.Console.WriteLine("Qual " + perguntas[i] + ": ");
-                respostas[i] = Console.ReadLine();
-                rp.Write(respostas[i] + ";");                
-             };
-
-             rp.Close();
-
         //   mostrar dados
             
 
-        }
+        
     }
 }
